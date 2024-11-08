@@ -1,0 +1,90 @@
+{
+    "Notebook":[
+        {
+        "marca": "Samsung",
+        "Modelo": "Galaxy Book4 i5 ",
+        "Memória": 512,
+        "Cor": "Prata",
+        "valor": 2.400
+
+    },
+    {
+        "marca": "Acer",
+        "Modelo": "Nitro V15 ANV15-51-58AZ 13ª Geração Intel ",
+        "Memória": 512,
+        "Cor": "Preto",
+        "valor": 4.999
+
+    },
+    {
+    "marca": "Dell",
+    "Modelo": "nspiron I15-i120k",
+    "Memória": "1 tb",
+    "Cor": "Preto",
+    "valor": 3.799
+
+}
+
+    ],
+
+    "Celular":[
+ {
+     "marca": "Samsung",
+    "Modelo": "A15",
+    "Memória": 256,
+    "Cor": "Azul",
+    "valor": 1.300
+
+
+  },
+  {
+    "marca": "Samsung",
+    "Modelo": "A71",
+    "Memória": 128,
+    "Cor": "Prata",
+    "valor": 2.300
+
+  },
+  {
+    "marca": "Apple",
+    "Modelo": "Iphone 15 pro Max",
+    "Memória": 512,
+    "Cor": "Azul",
+    "valor": 9.200
+
+  }
+
+    ],
+
+    "Acessorios": [
+    {
+    "Acessorio":"Cabo",
+    "Marca": "VX Case",
+    "Modelo": "Dragon",
+    "Tipo":"C",
+    "Potencia": 100,
+    "Valor": 199
+
+    },
+    {
+    "Acessorio":"Televisão",
+    "Marca": "Samsung",
+    "Modelo": "Qled",
+    "Polegadas":"55",
+    "Valor": 5.500
+    },
+    {
+    "Acessorio":"Fone de ouvido",
+    "Marca": "JBL",
+    "Modelo": "Tune 520",
+    "Bateria": "57 horas",
+    "Valor": 235
+    }
+
+]
+    
+
+
+     
+}
+
